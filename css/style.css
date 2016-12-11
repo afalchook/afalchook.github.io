@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -325,10 +325,10 @@ h1, h2, h3, h4, h5, h6, figure {
   -ms-transform: scale(1.2);
   -o-transform: scale(1.2);
   transform: scale(1.2);
-}
+}S
 
 .fh5co-cover {
-  height: 800px;
+  height: 100%;
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
